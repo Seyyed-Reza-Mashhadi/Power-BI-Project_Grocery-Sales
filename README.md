@@ -48,7 +48,7 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 - A muted, cohesive color palette was chosen to ensure professional presentation and reduce visual fatigue.
 - The homepage contains KPI cards, trend lines, and breakdown charts that offer an overview of business performance across revenue, orders, and product categories.
 - Most visuals and tables on the homepage support cross-filtering, allowing users to interactively explore different dimensions of the data.
-- *Tooltips* are used to display additional context without cluttering the main visuals. Hovering over product category bars reveals the top 5 products (by revenue) within that category.
+- Tooltips are used to display additional context without cluttering the main visuals. Hovering over product category bars reveals the top 5 products (by revenue) within that category.
 
 <br>
 
@@ -57,7 +57,7 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 </p>
 
 <br>
-- A *drill-through page* enables deeper exploration while keeping the main page clean. Clicking on a specific month in the revenue bar chart opens a dedicated monthly view showing:
+- A drill-through page enables deeper exploration while keeping the main page clean. Clicking on a specific month in the revenue bar chart opens a dedicated monthly view showing:
   - The top-performing employee  
   - Revenue and order trends  
   - Top 10 cities by revenue (in table and map formats)  
@@ -73,3 +73,27 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 <br>
 
 This design strikes a balance between high-level clarity and detailed interactivity—helping users extract key business insights while exploring the data at their own pace.
+
+## 📌 Summary & Business Insights
+This Power BI dashboard enabled a comprehensive, interactive exploration of grocery sales performance over 128 days. Key insights include:
+- **Total revenue** reached approximately **$4.3 billion** from about 6.7 million transactions and 87.9 million items ordered.
+- The **Average Order Value (AOV)** was **$641** with an average basket size of 13 items, indicating strong cross-selling performance and opportunities for further bundling strategies.
+- **Monthly revenue peaked in March** at around $1.03 billion, with an average monthly revenue close to $1 billion. These fluctuations could suggest capacity or demand limits within this dataset’s timeframe (4 months), warranting further investigation to confirm seasonal effects or operational constraints.
+- **Revenue is evenly distributed across low-, medium-, and high-tier classes**, each contributing roughly one-third of total revenue, showing a balanced portfolio.
+- The **Confections category** emerged as **the top revenue generator** with about $557 million, while the Seafood category generated the least revenue at around $300 million.
+- The **highest generated revenue** is from "**Bread - Calabrese Baguette**" product.
+- Regional sales analysis reveals that top revenue-generating cities are dispersed across the United States, indicating broad geographic market engagement rather than concentration in specific regions.
+
+## 🚀 Suggestions
+## 💡 Recommendations
+
+- **Plan inventory and promotions around the March peak** to maximize sales during high-demand periods.
+- **Focus on boosting sales in top categories** like Confections, especially popular items such as Hot Chocolate.
+- **Explore ways to improve performance of lower-revenue categories** like Seafood.
+- **Encourage cross-selling and product bundling** to increase average order value and basket size.
+- **Review operational capacity and demand trends** to identify potential growth limitations and opportunities.
+
+
+## 🔁 Related Project
+
+- 📊 [SQL Project – Grocery Sales](https://github.com/Seyyed-Reza-Mashhadi/SQL-Project_Grocery-Sales): This companion project presents the PostgreSQL database design and extensive analytical SQL queries underpinning the Power BI dashboard insights. It provides deep dives into revenue trends, customer segmentation, product performance, and employee effectiveness.
