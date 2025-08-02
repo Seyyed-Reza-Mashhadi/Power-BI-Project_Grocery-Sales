@@ -57,6 +57,7 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 </p>
 
 <br>
+
 - A drill-through page enables deeper exploration while keeping the main page clean. Clicking on a specific month in the revenue bar chart opens a dedicated monthly view showing:
   - The top-performing employee  
   - Revenue and order trends  
@@ -74,7 +75,7 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 
 This design strikes a balance between high-level clarity and detailed interactivity—helping users extract key business insights while exploring the data at their own pace.
 
-## 📌 Summary & Business Insights
+## 📌 Summary of Key Findings & Business Insights
 This Power BI dashboard enabled a comprehensive, interactive exploration of grocery sales performance over 128 days. Key insights include:
 - **Total revenue** reached approximately **$4.3 billion** from about 6.7 million transactions and 87.9 million items ordered.
 - The **Average Order Value (AOV)** was **$641** with an average basket size of 13 items, indicating strong cross-selling performance and opportunities for further bundling strategies.
@@ -84,8 +85,7 @@ This Power BI dashboard enabled a comprehensive, interactive exploration of groc
 - The **highest generated revenue** is from "**Bread - Calabrese Baguette**" product.
 - Regional sales analysis reveals that top revenue-generating cities are dispersed across the United States, indicating broad geographic market engagement rather than concentration in specific regions.
 
-## 🚀 Suggestions
-## 💡 Recommendations
+## 🚀 Strategic Recommendations
 
 - **Plan inventory and promotions around the March peak** to maximize sales during high-demand periods.
 - **Focus on boosting sales in top categories** like Confections, especially popular items such as Hot Chocolate.
