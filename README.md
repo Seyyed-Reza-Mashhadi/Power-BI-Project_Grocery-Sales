@@ -93,7 +93,8 @@ This Power BI dashboard enabled a comprehensive, interactive exploration of groc
 - **Encourage cross-selling and product bundling** to increase average order value and basket size.
 - **Review operational capacity and demand trends** to identify potential growth limitations and opportunities.
 
-
 ## 🔁 Related Project
-
 - 📊 [SQL Project – Grocery Sales](https://github.com/Seyyed-Reza-Mashhadi/SQL-Project_Grocery-Sales): This companion project presents the PostgreSQL database design and extensive analytical SQL queries underpinning the Power BI dashboard insights. It provides deep dives into revenue trends, customer segmentation, product performance, and employee effectiveness.
+
+## 📦 Power BI File Availability
+The Power BI project file is not included in the repository due to its large size (~400 MB) exceeding GitHub’s upload limits. Please contact me if you would like access to the file.
