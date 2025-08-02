@@ -1,4 +1,4 @@
- <h1 align="center">Power BI Dashboard For Grocery Sales Data</h1>  
+ <h1 align="center">Grocery Sales Dashboard</h1>  
 <img width="1280" height="718" alt="Home Dashboard" src="https://github.com/user-attachments/assets/ca97d374-f68d-454a-b81f-26ce11a1042a" />
 
 ## 🧩 About Project 
