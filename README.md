@@ -1,4 +1,5 @@
- <h1 align="center">Power BI Grocery Sales Dashboard Database</h1>  
+ <h1 align="center">Power BI Dashboard For Grocery Sales Data</h1>  
+<img width="1280" height="718" alt="Home Dashboard" src="https://github.com/user-attachments/assets/ca97d374-f68d-454a-b81f-26ce11a1042a" />
 
 ## 🧩 About Project 
 
@@ -22,6 +23,8 @@ The dashboard was designed to address the following analytical goals:
 ---
 
 ## 📊 Dashboard Overview
+
+
 
 The Power BI report includes the following visual elements:
 
