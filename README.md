@@ -76,7 +76,7 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 
 This design strikes a balance between high-level clarity and detailed interactivity—helping users extract key business insights while exploring the data at their own pace.
 
-## 📌 Summary of Key Findings & Business Insights
+## 🔑 Summary of Key Findings & Business Insights
 This Power BI dashboard enabled a comprehensive, interactive exploration of grocery sales performance over 128 days. Key insights include:
 - **Total revenue** reached approximately **$4.3 billion** from about 6.7 million transactions and 87.9 million items ordered.
 - The **Average Order Value (AOV)** was **$641** with an average basket size of 13 items, indicating strong cross-selling performance and opportunities for further bundling strategies.
