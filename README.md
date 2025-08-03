@@ -9,7 +9,7 @@
 
 This project showcases a Power BI dashboard built to analyze a grocery sales dataset from Kaggle, reflecting over 6.7 million real-world transactional activities. The dataset spans 128 days, capturing key entities such as sales, customers, products, employees, and geographic regions. The dashboard uses intuitive visualizations — including KPIs, charts, tables, and maps — to explore business questions related to revenue trends, product performance, and regional market insights.
 
-🔗 **Dataset:** The raw dataset is available on [Kaggle](https://www.kaggle.com/datasets/155a87ba8d7e92c5896ddc7f3ca3e3fa9c799207ed8dbf9a1cedf2e2e03e3c14). However, this Power BI dashboard is powered by a custom PostgreSQL database I designed in a related [SQL project](https://github.com/Seyyed-Reza-Mashhadi/SQL-Project_Grocery-Sales), which includes full data modeling and analytical queries.
+🔗 **Dataset:** The datas is available on [Kaggle](https://www.kaggle.com/datasets/155a87ba8d7e92c5896ddc7f3ca3e3fa9c799207ed8dbf9a1cedf2e2e03e3c14). However, this Power BI dashboard is powered by a custom PostgreSQL database I designed in a related [SQL project](https://github.com/Seyyed-Reza-Mashhadi/SQL-Project_Grocery-Sales), which includes full data modeling and analytical queries.
 
 ## 💡 Project Objectives
 
