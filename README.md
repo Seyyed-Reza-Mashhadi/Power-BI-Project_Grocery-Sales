@@ -27,7 +27,7 @@ Here is the list of project objectives to answer key business questions:
 
 ### 📥 Data Import and Model Inspection
 - Data was imported from a local PostgreSQL database using Power BI’s *Import* mode to allow faster performance and offline exploration. The main tables (`sales`, `employees`, `customers`, etc.) were loaded into Power BI. 
-- Using the Model View, all primary and foreign key relationships were inspected and confirmed to match the original database schema. This ensured a functional star-schema-like structure that supports clean aggregation and filtering.
+- Using the Model View, all primary and foreign key relationships were inspected and confirmed to match the original database schema. 
 
 ### ⚙️ Final ETL Steps in Query Editor
 
