@@ -36,7 +36,7 @@ Several lightweight transformations were done in Power BI’s Query Editor to pr
 - Redundant or unused columns were removed to keep the model clean.
 - New columns like `full_name` were created for easier display and slicing.
 - Data types were preserved correctly during import, as defined in the PostgreSQL schema.
-These steps resulted in a clear and effecient **star schema** structure, one fact table (`sales`) and three dimension tables (`products`,`customers`, and `employees`). This simplified yet rich model supports flexible, performant, and intuitive reporting in Power BI.
+These steps resulted in a clear and effecient **star schema** structure, with one **fact table** (`sales`) and three **dimension tables** (`products`,`customers`, and `employees`). This simplified yet rich model supports flexible, performant, and intuitive reporting in Power BI.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0bb9ca2d-c10b-4e0f-9529-1c7ab7ca4f28" width="600">
