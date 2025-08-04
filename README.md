@@ -33,13 +33,13 @@ Here is the list of project objectives to answer key business questions:
 
 Several lightweight transformations were done in Power BI’s Query Editor to prepare the data for visualization:
 - The original schema included normalized `cities` and `countries` tables. To avoid potential ambiguity, location details were merged into the `customers` and `employees` tables using the Merge Queries feature.
-- Redundant or unused columns were removed to keep the model lean.
+- Redundant or unused columns were removed to keep the model clean.
 - New columns like `full_name` were created for easier display and slicing.
 - Data types were preserved correctly during import, as defined in the PostgreSQL schema.
-These steps resulted in a simplified yet rich data model that supports a flexible and efficient reporting experience.
+These steps resulted in a clear and effecient **star schema** structure, one fact table (`sales`) and three dimension tables (`products`,`customers`, and `employees`). This simplified yet rich model supports flexible, performant, and intuitive reporting in Power BI.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bff00377-5442-4822-833b-78488a1349f1" width="600">
+  <img src="https://github.com/user-attachments/assets/0bb9ca2d-c10b-4e0f-9529-1c7ab7ca4f28" width="600">
 </p>
 
 ## 🎨 Dashboard Design and Interactivity
