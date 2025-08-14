@@ -67,7 +67,7 @@ The dashboard layout and visuals were designed with clarity, consistency, and us
 
 <br>
 <br>
-<p align="center"><em>Play the gif image to see a demonstration of the designed drillthrough</em></p> 
+<p align="center"><em>Play the gif image to see a demonstration of the designed drill-through</em></p> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0578a1c9-0c28-41c6-920b-4d3e3cd8f995" alt="Drillthrough Demo" width="700"/>
 </p>
