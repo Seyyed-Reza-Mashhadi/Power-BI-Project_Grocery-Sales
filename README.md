@@ -35,6 +35,7 @@ Several lightweight transformations were done in Power BI’s Query Editor to pr
 - The original schema included normalized `cities` and `countries` tables. To avoid potential ambiguity, location details were merged into the `customers` and `employees` tables using the Merge Queries feature.
 - Redundant or unused columns were removed to keep the model clean.
 - New columns like `full_name` were created for easier display and slicing.
+- Duplicate rows were removed to ensure data integrity for subsequent analysis.
 - Data types were preserved correctly during import, as defined in the PostgreSQL schema.
 These steps resulted in a clear and effecient **star schema** structure, with one **fact table** (`sales`) and three **dimension tables** (`products`,`customers`, and `employees`). This simplified yet rich model supports flexible, performant, and intuitive reporting in Power BI.
 
