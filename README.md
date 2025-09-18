@@ -1,4 +1,4 @@
-<h1 align="center">Grocery Sales Dashboard in Power BI</h1>  
+<h1 align="center"> Grocery Sales Dashboard in Power BI </h1>  
  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ca97d374-f68d-454a-b81f-26ce11a1042a" width="1000">
