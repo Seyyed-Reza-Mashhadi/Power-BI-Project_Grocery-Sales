@@ -97,6 +97,8 @@ This Power BI dashboard enabled a comprehensive, interactive exploration of groc
 
 ## 🔁 Related Project
 - 📊 [**SQL Project**](https://github.com/Seyyed-Reza-Mashhadi/SQL-Project_Grocery-Sales): This companion project presents the PostgreSQL database design and extensive analytical SQL queries underpinning the Power BI dashboard insights. It provides deep dives into revenue trends, customer segmentation, product performance, and employee effectiveness.
-
+- ☁️ [**Azure Data Factory Project**](https://github.com/Seyyed-Reza-Mashhadi/Azure-Data-Factory-Project): Implements a complete ETL pipeline for data orchestration using Azure Data Factory, ADLS, and Azure SQL Database.
+- 📊 [**Tableau Dashboard**](https://github.com/Seyyed-Reza-Mashhadi/Tableau-Project_Grocery-Sales): Interactive two-page dashboard built on the same dataset to showcase Tableau features, including Tableau Prep Builder workflows, interactivity, navigation, and cross-dashboard linking.
+  
 ## 📦 Power BI File Availability
 The Power BI project file is not included in the repository due to its large size (~400 MB) exceeding GitHub’s upload limits. Please contact me if you would like access to the file.
